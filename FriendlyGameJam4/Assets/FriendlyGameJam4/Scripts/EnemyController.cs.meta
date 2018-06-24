@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dca842a3aff31432fa08acc39bcda8fd
+timeCreated: 1529797752
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - playerController: {instanceID: 0}
+  - thisController: {instanceID: 0}
+  - HitEffect: {fileID: 1634306176357494, guid: 0ba2f02aea14a4c4c9a52cbb6668d1fb,
+      type: 2}
+  - HealthPrefab: {fileID: 1327243156864996, guid: 8c1c36a9f06ca452884cbe071fa465ef,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
