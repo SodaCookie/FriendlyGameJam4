@@ -2306,7 +2306,7 @@ MonoBehaviour:
   MonsterContainer: {fileID: 645232762}
   NextScene: 1
   clear: {fileID: 1947394215}
-  gameOver: {fileID: 1947394216}
+  gameOver: {fileID: 1720967760}
   victory: {fileID: 0}
   fade: {fileID: 1947394217}
   audio: {fileID: 830985994}
@@ -4511,6 +4511,11 @@ Transform:
   m_Father: {fileID: 1092193016}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1720967760 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1081556880157764, guid: 0e8bd5d068c0c4c63827eab09964bef3,
+    type: 2}
+  m_PrefabInternal: {fileID: 1947394214}
 --- !u!1 &1722862803
 GameObject:
   m_ObjectHideFlags: 0
@@ -5153,11 +5158,6 @@ Prefab:
 --- !u!1 &1947394215 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1140730705322920, guid: 0e8bd5d068c0c4c63827eab09964bef3,
-    type: 2}
-  m_PrefabInternal: {fileID: 1947394214}
---- !u!1 &1947394216 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1925979933457458, guid: 0e8bd5d068c0c4c63827eab09964bef3,
     type: 2}
   m_PrefabInternal: {fileID: 1947394214}
 --- !u!114 &1947394217 stripped

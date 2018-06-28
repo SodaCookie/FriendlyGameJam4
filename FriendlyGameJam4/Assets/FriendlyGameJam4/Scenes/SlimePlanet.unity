@@ -5094,7 +5094,7 @@ GameObject:
   m_PrefabInternal: {fileID: 1947394214}
 --- !u!1 &1947394216 stripped
 GameObject:
-  m_PrefabParentObject: {fileID: 1925979933457458, guid: 0e8bd5d068c0c4c63827eab09964bef3,
+  m_PrefabParentObject: {fileID: 1081556880157764, guid: 0e8bd5d068c0c4c63827eab09964bef3,
     type: 2}
   m_PrefabInternal: {fileID: 1947394214}
 --- !u!114 &1947394217 stripped
